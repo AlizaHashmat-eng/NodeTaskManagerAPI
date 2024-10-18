@@ -48,10 +48,6 @@ This API is designed to offer comprehensive task management functionalities for 
 
 To test the API, you can use tools like Postman or the provided Swagger documentation.
 
-## Contribution
-
-- Kashif Ali
-
 ## License
 
 This project is licensed under the MIT License.
