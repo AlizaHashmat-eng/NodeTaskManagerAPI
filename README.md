@@ -66,6 +66,3 @@ This Task Management API is built with best practices and clean code principles 
 
 ## Testing
 You can test the API using tools such as **Postman** or explore the provided **Swagger** documentation for a detailed overview of available endpoints and request/response formats.
-
-## License
-This project is licensed under the **MIT License**.
